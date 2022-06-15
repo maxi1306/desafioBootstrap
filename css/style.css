@@ -23,6 +23,8 @@
 .container{
     --bs-gutter-x: 0rem;
 }
+
+
 /* MODELOS */
 .py-5{
     padding-top: 8rem!important;
